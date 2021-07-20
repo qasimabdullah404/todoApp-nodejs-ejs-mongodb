@@ -4,7 +4,7 @@
   "description": "Simple To-do List App with Node.js and MongoDB with ejs as viewing engine",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
